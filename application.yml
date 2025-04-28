@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/javafinalproject
     username: postgres
-    password: 3242
+    password: beka asd2020
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
